@@ -14,16 +14,20 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: metamorphic petrologist
+bio: 
 
 interests:
 - Metamorphic petrology
 - Timescale of mineral growths
 - Compositional zoning in minerals
+- Nano-scale microstructure in minerals
 
 education:
   courses:
-  - course: BSc in Earth Science
+  - course: Msc in Department of Earth Science
+    institution: Tohoku University
+    year:
+  - course: BSc in Department of Earth Science
     institution: Tohoku University
     year: 2020
 
