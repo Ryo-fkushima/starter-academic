@@ -10,14 +10,14 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: ""
 
 content:
   # Automatically link email and phone or display as text?
   autolink: true
   
   # Email form provider
-  email_form = 0
+  email_form: 0
   
 design:
   columns: '2'
