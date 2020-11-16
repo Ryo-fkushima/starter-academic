@@ -20,7 +20,7 @@ interests:
 - Metamorphic petrology
 - Timescale of mineral growths
 - Compositional zoning in minerals
-- Nano-scale microstructure in minerals
+- Nano-scale structure in minerals
 
 education:
   courses:
@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:ryo.fukushima.p7@dc.tohoku.ac.jp".
+  link: "mailto:ryo.fukushima.p7@dc.tohoku.ac.jp"  # For a direct email link, use "mailto:ryo.fukushima.p7@dc.tohoku.ac.jp".
 - icon: github
   icon_pack: fab
   link: https://github.com/Ryo-fkushima
