@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: ""  # For a direct email link, use "mailto:ryo.fukushima.p7@dc.tohoku.ac.jp".
+  link: "#contact"  # For a direct email link, use "mailto:ryo.fukushima.p7@dc.tohoku.ac.jp".
 - icon: github
   icon_pack: fab
   link: https://github.com/Ryo-fkushima
