@@ -25,13 +25,7 @@ publication_short: ""
 # Summary. An optional shortened abstract.
 # summary: 
 
-tags: 
-- tag: "omphacite"
-- tag: "FIB"
-- tag: "TEM"
-- tag: "garnet"
-- tag: "eclogite"
-- tag: "antiphase domain"
+tags: ["omphacite", "FIB", "TEM", "garnet", "eclogite", "antiphase domain"] 
 
 
 featured: true
