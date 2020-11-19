@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 #For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {city = "Sendai, Miyagi, Japan",country_code = "JPN"}
+address = {city = "Sendai, Miyagi, Japan"}
 
 # Geographic coordinates
 #To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -157,7 +157,7 @@ section_pager = false
 docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
-sharing = true
+sharing = false
 
 # Show a copyright license from creativecommons.org in the site footer?
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.
