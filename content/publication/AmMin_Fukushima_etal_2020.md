@@ -1,4 +1,12 @@
 ---
+tags: 
+- tag: "omphacite"
+- tag: "FIB"
+- tag: "TEM"
+- tag: "garnet"
+- tag: "eclogite"
+- tag: "antiphase domain"
+
 title: "Various antiphase domains in garnet-hosted omphacite in low temperature eclogite: A FIB–TEM study on heterogeneous ordering processes"
 authors:
 - Ryo Fukushima
@@ -25,13 +33,7 @@ publication_short: ""
 # Summary. An optional shortened abstract.
 # summary: 
 
-tags: 
-- tag: "omphacite"
-- tag: "FIB"
-- tag: "TEM"
-- tag: "garnet"
-- tag: "eclogite"
-- tag: "antiphase domain"
+
 
 featured: true
 
