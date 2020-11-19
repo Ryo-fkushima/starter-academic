@@ -27,6 +27,12 @@ publication_short: ""
 
 tags: 
 - tag: "omphacite"
+- tag: "FIB"
+- tag: "TEM"
+- tag: "garnet"
+- tag: "eclogite"
+- tag: "antiphase domain"
+
 featured: true
 
 
