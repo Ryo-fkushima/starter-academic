@@ -5,7 +5,7 @@ authors:
 - Tatsuki Tsujimori
 - Nobuyoshi Miyajima
 date: "2020-11-07"
-doi: ""
+doi: "10.2138/am-2021-7784"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -28,9 +28,9 @@ publication_short: ""
 tags: 
 featured: true
 
-#links:
-# - name: "Link"
-#   url: ""
+links:
+ - name: "Link"
+   url: "http://www.minsocam.org/MSA/Ammin/AM_Preprints.html"
 #url_pdf: ''
 #url_code: ''
 #url_dataset: ''
