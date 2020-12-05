@@ -4,7 +4,7 @@ authors:
 - Tatsuki Tsujimori
 - Ryo Fukushima
 - Nobuyoshi Miyajima
-date: ""
+date: "2019-12-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -28,7 +28,7 @@ publication_short: ""
 tags: ["omphacite", "FIB", "TEM", "garnet", "eclogite", "antiphase domain"] 
 
 
-featured: true
+featured: false
 
 
 links:
