@@ -26,7 +26,7 @@ publication_short: ""
 # Summary. An optional shortened abstract.
 # summary: 
 
-tags: ["diffusion-limited REE uptake model", "growth kinetics", "zoned garnet", "garnet", "eclogite"] 
+tags: ["diffusion-limited REE uptake model", "growth kinetics", "garnet", "eclogite"] 
 
 
 featured: true
