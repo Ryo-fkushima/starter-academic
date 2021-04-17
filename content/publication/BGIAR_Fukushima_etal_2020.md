@@ -4,7 +4,7 @@ authors:
 - Ryo Fukushima
 - Tatsuki Tsujimori
 - Nobuyoshi Miyajima
-date: "2021-4-17"
+date: "2021-04-17"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
