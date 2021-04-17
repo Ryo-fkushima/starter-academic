@@ -1,10 +1,10 @@
 ---
-title: "Reappraisal of natural omphacite: To see a world in a nanoscale domain"
+title: "Revising estimates of antiphase domain size in eclogite-facies omphacites"
 authors:
-- Tatsuki Tsujimori
 - Ryo Fukushima
+- Tatsuki Tsujimori
 - Nobuyoshi Miyajima
-date: "2019-12-01"
+date: "2021-4-17"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,7 @@ doi: ""
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: "BGI (Bayerisches Forschungsinstitut für Experimentelle Geochemie und Geophysik) Annual Report 2019, p. 78-79"
+publication: "BGI (Bayerisches Forschungsinstitut für Experimentelle Geochemie und Geophysik) Annual Report 2020, p. 126-127"
 publication_short: ""
 
 #abstract: ""
