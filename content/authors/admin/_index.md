@@ -42,10 +42,10 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/Ryo-fkushima
- - icon: orcid
+- icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-2683-6757
- - icon: researchgate
+- icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Ryo-Fukushima-2 
 # Link to a PDF of your resume/CV from the About widget.
