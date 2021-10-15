@@ -33,7 +33,7 @@ featured: true
 
 links:
  - name: "Link"
-   url: "http://www.minsocam.org/MSA/Ammin/AM_Preprints.html"
+   url: "https://pubs.geoscienceworld.org/msa/ammin/article/106/10/1596/607915/Various-antiphase-domains-in-garnet-hosted"
 #url_pdf: ''
 #url_code: ''
 #url_dataset: ''
