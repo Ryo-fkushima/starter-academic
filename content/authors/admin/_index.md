@@ -24,9 +24,12 @@ interests:
 
 education:
   courses:
+  - course: PhD student in Department of Earth Science
+    institution: Tohoku University
+    year: 
   - course: MSc in Department of Earth Science
     institution: Tohoku University
-    year:
+    year: 2022
   - course: BSc in Department of Earth Science
     institution: Tohoku University
     year: 2020
